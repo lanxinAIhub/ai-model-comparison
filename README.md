@@ -3,6 +3,7 @@
 > 主流 AI 模型全面对比：Benchmark 数据、成本、速度、上下文长度，支持搜索和筛选
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![CI](https://github.com/lanxinAIhub/ai-model-comparison/actions/workflows/ci.yml/badge.svg)](https://github.com/lanxinAIhub/ai-model-comparison/actions/workflows)
 [![GitHub stars](https://img.shields.io/github/stars/lanxinAIhub/ai-model-comparison)](https://github.com/lanxinAIhub/ai-model-comparison/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
